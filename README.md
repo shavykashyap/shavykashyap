@@ -68,7 +68,7 @@ PID • LQR • MPC • Quaternion Feedback • Convex Optimization • Semi-Def
 <!-- 
 - 🔗 [Portfolio Website](https://sites.google.com/view/shavykashyap)
 -->
-- 💼 [LinkedIn]([www.linkedin.com/in/shavy](https://www.linkedin.com/in/shavy/))
+- 💼 [LinkedIn] https://www.linkedin.com/in/shavy/
 - ✉️ [UW Email] shavyk@uw.edu
 - ✉️ [Personal Email] shavykashyap@gmail.com
 
