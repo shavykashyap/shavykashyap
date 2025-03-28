@@ -75,12 +75,13 @@ PID • LQR • MPC • Quaternion Feedback • Convex Optimization • Semi-Def
 ---
 
 > *“Control is not just about stability — it’s about insight, precision, and purpose.”*
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shavykashyap&layout=compact&hide_border=true&theme=react)
 ---
 
 ## 📊 GitHub Stats
 
 ![Shavy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shavykashyap&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=react)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shavykashyap&layout=compact&hide_border=true&theme=react)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shavykashyap&hide_border=true&theme=react)](https://github.com/shavykashyap)
 
