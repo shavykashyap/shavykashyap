@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   Using Semi-Definite Programming(SDP) (a special case of Convex Optimisation) to design attitude control systems with operational constraints such as keep-out (exclusion) zones for sensitive instruments.
 
 
--🛰️ Drag Augmentation System for Space Debris Mitigation
+-🛰️ **Drag Augmentation System for Space Debris Mitigation**
   Designed a small satellite with a drag augmentation mechanism and conducted de-orbiting simulations using Ansys STK to validate effectiveness and analyze performance tradeoffs.
 
 ---
@@ -69,7 +69,7 @@ PID • LQR • MPC • Quaternion Feedback • Convex Optimization • Semi-Def
 - 🔗 [Portfolio Website](https://sites.google.com/view/shavykashyap)
 -->
 - 💼 [LinkedIn](https://linkedin.com/in/shavykashyap)
-- ✉️ [UW email] shavyk@uw.edu
+- ✉️ [UW Email] shavyk@uw.edu
 - ✉️ [Personal Email] shavykashyap@gmail.com
 
 ---
