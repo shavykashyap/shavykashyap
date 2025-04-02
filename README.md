@@ -49,9 +49,10 @@ Here are some ideas to get you started:
 YALMIP | MOSEK | CVX | AutoCAD | CATIA | Ansys (STK, Fluent, Mechanical) | GMAT
 
 **Domains of Interest**:  
-Attitude Dynamics • Orbital Mechanics • System Identification • Optimization-Based Control  
+Attitude Dynamics • Orbital Mechanics • Optimization-Based Control  
 PID • LQR • MPC • Quaternion Feedback • Convex Optimization • Semi-Definite Programming
-
+<!--System Identification •
+-->
 ---
 <!--
 ## 📌 Selected Repositories
